@@ -1,0 +1,31 @@
+.purple {
+    background-color: purple;
+    margin: 10px;
+    height: 100px;
+    /* width: 90vw; */
+}
+
+.pink,.green,.orange {
+    margin: 10px;
+    width: 33vw;
+    height: 300px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
