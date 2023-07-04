@@ -1,0 +1,48 @@
+body {
+	background-color: #f0ae81;
+}
+
+#content {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-family: fantasy;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+
+hr {
+	border: 4px dashed black;
+}
+
+#wrap {
+	background-color: #f5db9a;
+	border: 5px dashed black;
+}
+
+ul {
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	justify-content: center;	
+}
+
+li::first-letter {
+	text-transform: uppercase;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+p {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.copyright {
+	text-align: center;
+}

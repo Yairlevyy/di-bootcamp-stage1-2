@@ -1,0 +1,43 @@
+body {
+	background-color: #1D3987;
+	font-family: Arial, sans-serif;
+	box-sizing: border-box;
+	margin-top: 0px;
+
+}
+
+.wrap {
+	display: flex;
+	justify-content: center;
+}
+#nav {
+	background-color: #C0CEEF;
+	float: left;
+	width: 200px;
+	height: 405px;
+}
+
+h2 {
+	text-align: center;
+}
+
+#content {
+	background-color: #5E76AE;
+	float: left ;
+	width: 820px;
+	height: 405px;
+	text-align: center;
+	
+}
+
+li {
+	list-style: none;
+}
+
+.copyright {
+	position: relative;
+	left: 730px;
+	clear: left;
+	margin-top: 20px;
+}
+
