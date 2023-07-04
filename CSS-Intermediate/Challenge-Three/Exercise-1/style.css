@@ -1,0 +1,32 @@
+.red {
+    background-color: red;
+    width: 20vw;
+    height: 100px;
+    margin: 10px;
+}
+
+.blue {
+    background-color: blue;
+    margin: 10px;
+    width: 60vw;
+    height: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 80vw;
+    padding: 10px;
+    height: 80px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
